@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\FoodType\FoodType\bin\Debug\FoodType.exe.config
+C:\Users\ucenik\source\repos\FoodType\FoodType\bin\Debug\FoodType.exe
+C:\Users\ucenik\source\repos\FoodType\FoodType\bin\Debug\FoodType.pdb
+C:\Users\ucenik\source\repos\FoodType\FoodType\obj\Debug\FoodType.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\FoodType\FoodType\obj\Debug\FoodType.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\FoodType\FoodType\obj\Debug\FoodType.exe
+C:\Users\ucenik\source\repos\FoodType\FoodType\obj\Debug\FoodType.pdb
